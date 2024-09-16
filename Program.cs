@@ -68,4 +68,3 @@ foreach (char item in operations)
 }
 
 Console.WriteLine($"{string.Join(',',nums)}");
-Console.ReadKey();
